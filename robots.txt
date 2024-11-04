@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omaqaemi.github.io/OPH/sitemap_index.txt
+Sitemap: https://omaqaemi.github.io/Zkh/sitemap_index.txt
+Sitemap: https://omaqaemi.github.io/pcY/sitemap_index.txt
+Sitemap: https://omaqaemi.github.io/sHi/sitemap_index.txt
